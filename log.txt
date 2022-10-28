@@ -1,1 +1,71 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Breadboard power supply board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/Breadboard_power_supply.kicad_pcb
+	modified:   CAD/V1.0.0/Breadboard_power_supply.kicad_pro
+	modified:   CAD/V1.0.0/Breadboard_power_supply.kicad_sch
+	modified:   CAD/V1.1.1/Breadboard_power_supply.kicad_pcb
+	modified:   CAD/V1.1.1/Breadboard_power_supply.kicad_pro
+	modified:   CAD/V1.1.1/Breadboard_power_supply.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/Breadboard_power_supply.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/Breadboard_power_supply.kicad_pro
+	modified:   CAD/~$Change Log.xlsx
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Breadboard_power_supply_BOM.csv
+	modified:   OUTPUTS/V1.0.0/Breadboard_power_supply_gerber.zip
+	modified:   OUTPUTS/V1.0.0/Breadboard_power_supply_ibom.html
+	modified:   OUTPUTS/V1.1.1/Breadboard power supply board_ibom.html
+	modified:   OUTPUTS/V1.1.1/Breadboard power supply.jpg
+	modified:   OUTPUTS/V1.1.1/Breadboard_power_supply_board.pdf
+	modified:   OUTPUTS/V1.1.1/Breadboard_power_supply_board_216.6x190.24_24.zip
+	modified:   OUTPUTS/V1.1.1/Breadboard_power_supply_board_3D.step
+	modified:   OUTPUTS/V1.1.1/Breadboard_power_supply_board_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main 2c68700] Updating open source files.
+ 28 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/Breadboard_power_supply.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/Breadboard_power_supply.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/Breadboard_power_supply.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/Breadboard_power_supply.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/Breadboard_power_supply.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Breadboard_power_supply.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Breadboard_power_supply.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Breadboard_power_supply.kicad_pro
+ mode change 100644 => 100755 CAD/~$Change Log.xlsx
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Breadboard_power_supply_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Breadboard_power_supply_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Breadboard_power_supply_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard power supply board_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard power supply.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard_power_supply_board.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard_power_supply_board_216.6x190.24_24.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard_power_supply_board_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Breadboard_power_supply_board_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Breadboard-power-supply-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Power-red/Mini low-power TPS613222A boost converter/OUTPUTS/V1.0.0: all files are present, commiting...
+Mini-low-power-TPS613222A-boost-converter-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Power-red/Mini low-power TPS613222A boost converter to Mini-low-power-TPS613222A-boost-converter-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Breadboard power supply board/.git/
